@@ -7,7 +7,7 @@ Initialization
 ```
 python manage.py migrate
 python manage.py loaddata film
-python manage.py loaddata runserver
+python manage.py runserver
 ```
 
 Open http://localhost:8000/datatable in a browser
